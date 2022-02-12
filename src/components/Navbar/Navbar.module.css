@@ -1,0 +1,30 @@
+.nav{
+    grid-area: n;
+    background-color: rgb(25, 139, 139);
+  
+  }
+
+  .item{
+    margin:10px
+  }
+.inactive{
+      color:rgb(68, 183, 228);
+  }       
+  .inactive:hover{
+
+    color:red;
+  }
+.item a.active
+{
+    color:rgb(236, 161, 20);
+    background-color: gold;
+    font-weight: 400;
+}                                
+.friends{
+  display: flex;
+  
+  padding: 10px;
+}
+.friends img{
+  width: 40px;
+}

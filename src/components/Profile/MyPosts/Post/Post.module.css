@@ -1,0 +1,15 @@
+
+  .item{
+  
+    color: rgb(29, 202, 58);
+    
+    
+  }
+ .item span{
+   color:red;
+  }
+ 
+ .sip img{
+   width: 100px;
+   border-radius: 30px;
+ }

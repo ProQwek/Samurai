@@ -1,0 +1,16 @@
+.header {
+  
+    grid-area: h;
+    background-color: aqua;
+    
+  }
+  .header img{
+   position: absolute;
+    width: 90px;
+    
+  }
+  .loginBlock{
+    display: flex;
+    float:left;
+    margin-left: 1100px;
+  }

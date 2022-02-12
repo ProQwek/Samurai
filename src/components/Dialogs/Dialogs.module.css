@@ -1,0 +1,29 @@
+.dialogs{
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+   
+
+}
+.dialogItems {
+   
+    color:blue;
+    padding: 10px;
+}
+
+.selected{
+
+    color:gold;
+}
+
+.messages{
+    
+    color:red;
+    padding: 10px;
+}
+
+.dialog:hover{
+
+    font-weight: 500;
+    border-radius: 10px;
+    background-color: white;
+}
